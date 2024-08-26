@@ -8,6 +8,9 @@ namespace aula3_cs_ex5
 {
     internal class Program
     {
+        /*Escreva um programa em C# que lê 3 valores, lados de um triângulo, e calcule e 
+        escreva a área do triângulo formado.*/
+        
         static void Main(string[] args)
         {
             Program start = new Program();
